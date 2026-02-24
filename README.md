@@ -18,8 +18,8 @@ To write a program to predict car prices using Linear Regression and Polynomial 
 ## Program:
 
 Program to implement Linear and Polynomial Regression models for predicting car prices.
-Developed by: Arunjuthan.M.A
-RegisterNumber:  212225230020
+Developed by: SARAN SADASIVAM
+RegisterNumber:  212225040385
 
 ```py
 import pandas as pd
@@ -85,7 +85,8 @@ plt.show()
 
 ## Output:
 <img width="1382" height="480" alt="image" src="https://github.com/user-attachments/assets/6e58252e-1e24-441e-914e-defe74b5dbcb" />
-<img width="333" height="299" alt="image" src="https://github.com/user-attachments/assets/85806e62-1ae0-49e1-ada8-8d8582d02bf3" />
+<img width="348" height="258" alt="image" src="https://github.com/user-attachments/assets/de09a40d-2666-4b88-9a05-22215683703b" />
+
 <img width="1375" height="586" alt="image" src="https://github.com/user-attachments/assets/932b1b51-f8f0-47ec-b627-506966fc0093" />
 
 
